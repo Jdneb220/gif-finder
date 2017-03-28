@@ -2,7 +2,7 @@
 ![Giphy API](https://github.com/Giphy/GiphyAPI/blob/master/api_giphy_header.gif)
 
 ## Introduction
-This morning we are going to warm up with some AJAX calls using the [Giphy API](https://github.com/Giphy/GiphyAPI).
+This morning we are going to warm up with some AJAX calls using the [Giphy API](https://github.com/Giphy/GiphyAPI/raw/master/api_giphy_header.gif).
 
 ## Setup
 We have provided you with the completed HTML and CSS, and a partially filled in JS file called `script.js`. You will doing *ALL* of your work in the `script.js` file. You will need to add jQuery to your directory and link it to your html file.
